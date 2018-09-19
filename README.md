@@ -1,4 +1,6 @@
 # Some plugin for a wordpress theme
+A jQuery hover menu for a wordpress theme that pics up the titles and 
+looks for images with the same name to show as an overlay when you hover the menu title.
 
 ## How to use
 Put the `.js` file in the `js` folder of your theme.
